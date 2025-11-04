@@ -1,1 +1,3 @@
 branch3 text file
+
+Перебазируем ветки main и branch3
